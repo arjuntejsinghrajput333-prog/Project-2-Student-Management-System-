@@ -1,0 +1,149 @@
+[
+    {
+        "name": "Dr. Violet Sanford",
+        "email": "Josie1@hotmail.com",
+        "course": "Python",
+        "marks": 5,
+        "id": "1"
+    },
+    {
+        "name": "Kay McLaughlin",
+        "email": "Dylan22@gmail.com",
+        "course": "Java",
+        "marks": 48,
+        "id": "2"
+    },
+    {
+        "name": "Jessie Sawayn",
+        "email": "Axel35@yahoo.com",
+        "course": "JavaScript",
+        "marks": 26,
+        "id": "3"
+    },
+    {
+        "name": "Mr. Lance Bernier",
+        "email": "Amir.Barrows34@hotmail.com",
+        "course": "C",
+        "marks": 97,
+        "id": "4"
+    },
+    {
+        "name": "Bethany Pollich",
+        "email": "Jasmin.DuBuque48@yahoo.com",
+        "course": "C++",
+        "marks": 45,
+        "id": "5"
+    },
+    {
+        "name": "Billy Denesik PhD",
+        "email": "Payton7@hotmail.com",
+        "course": "C#",
+        "marks": 55,
+        "id": "6"
+    },
+    {
+        "name": "Pablo Cremin",
+        "email": "Keyshawn47@hotmail.com",
+        "course": "PHP",
+        "marks": 92,
+        "id": "7"
+    },
+    {
+        "name": "Sandra Beer",
+        "email": "Adriana_Moore62@yahoo.com",
+        "course": "Ruby",
+        "marks": 53,
+        "id": "8"
+    },
+    {
+        "name": "Lorenzo Johnson",
+        "email": "Jacynthe_Emmerich44@hotmail.com",
+        "course": "Go",
+        "marks": 16,
+        "id": "9"
+    },
+    {
+        "name": "Inez Spinka-Schiller",
+        "email": "Tabitha.Crona44@yahoo.com",
+        "course": "Swift",
+        "marks": 70,
+        "id": "10"
+    },
+    {
+        "name": "Julian Crooks",
+        "email": "Brant_Kilback71@hotmail.com",
+        "course": "Kotlin",
+        "marks": 47,
+        "id": "11"
+    },
+    {
+        "name": "Micheal Beier",
+        "email": "Luther_Harris-Lindgren@hotmail.com",
+        "course": "TypeScript",
+        "marks": 86,
+        "id": "12"
+    },
+    {
+        "name": "Mr. Everett Tromp",
+        "email": "Robert.Ernser21@yahoo.com",
+        "course": "Rust",
+        "marks": 24,
+        "id": "13"
+    },
+    {
+        "name": "Sophie Herman",
+        "email": "Deanna_Bashirian7@gmail.com",
+        "course": "R",
+        "marks": 56,
+        "id": "14"
+    },
+    {
+        "name": "Kelli Boyle",
+        "email": "Julian_Krajcik45@gmail.com",
+        "course": "Dart",
+        "marks": 23,
+        "id": "15"
+    },
+    {
+        "name": "Carolyn Langosh I",
+        "email": "Gerardo_Gottlieb@gmail.com",
+        "course": "Scala",
+        "marks": 58,
+        "id": "16"
+    },
+    {
+        "name": "Marguerite Grant",
+        "email": "Letha95@yahoo.com",
+        "course": "Perl",
+        "marks": 21,
+        "id": "17"
+    },
+    {
+        "name": "Max Beatty",
+        "email": "Cody95@hotmail.com",
+        "course": "Lua",
+        "marks": 4,
+        "id": "18"
+    },
+    {
+        "name": "Dianna Rodriguez",
+        "email": "Jonathan69@hotmail.com",
+        "course": "MATLAB",
+        "marks": 69,
+        "id": "19"
+    },
+    {
+        "name": "Justin Ward",
+        "email": "Jayne.Glover@gmail.com",
+        "course": "SQL",
+        "marks": 68,
+        "id": "20"
+    },
+    {
+        "id": 21,
+        "name": "Arjun Rajput",
+        "email": "arjun@gmail.com",
+        "course": "C++",
+        "marks": 88
+    }
+]

@@ -1,0 +1,22 @@
+﻿Student ID,Name,Email,Course,Marks,Result
+1,Dr. Violet Sanford,Josie1@hotmail.com,Python,5,FAIL
+2,Kay McLaughlin,Dylan22@gmail.com,Java,48,PASS
+3,Jessie Sawayn,Axel35@yahoo.com,JavaScript,26,FAIL
+4,Mr. Lance Bernier,Amir.Barrows34@hotmail.com,C,97,PASS
+5,Bethany Pollich,Jasmin.DuBuque48@yahoo.com,C++,45,PASS
+6,Billy Denesik PhD,Payton7@hotmail.com,C#,55,PASS
+7,Pablo Cremin,Keyshawn47@hotmail.com,PHP,92,PASS
+8,Sandra Beer,Adriana_Moore62@yahoo.com,Ruby,53,PASS
+9,Lorenzo Johnson,Jacynthe_Emmerich44@hotmail.com,Go,16,FAIL
+10,Inez Spinka-Schiller,Tabitha.Crona44@yahoo.com,Swift,70,PASS
+11,Julian Crooks,Brant_Kilback71@hotmail.com,Kotlin,47,PASS
+12,Micheal Beier,Luther_Harris-Lindgren@hotmail.com,TypeScript,86,PASS
+13,Mr. Everett Tromp,Robert.Ernser21@yahoo.com,Rust,24,FAIL
+14,Sophie Herman,Deanna_Bashirian7@gmail.com,R,56,PASS
+15,Kelli Boyle,Julian_Krajcik45@gmail.com,Dart,23,FAIL
+16,Carolyn Langosh I,Gerardo_Gottlieb@gmail.com,Scala,58,PASS
+17,Marguerite Grant,Letha95@yahoo.com,Perl,21,FAIL
+18,Max Beatty,Cody95@hotmail.com,Lua,4,FAIL
+19,Dianna Rodriguez,Jonathan69@hotmail.com,MATLAB,69,PASS
+20,Justin Ward,Jayne.Glover@gmail.com,SQL,68,PASS
+21,Arjun Rajput,arjun@gmail.com,C++,88,PASS

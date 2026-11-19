@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Dr. Claudia Mann",
+        "email": "Elvis.Glover92@gmail.com",
+        "subject": "python",
+        "salary": 18000,
+        "id": "1"
+    },
+    {
+        "name": "Santiago Block",
+        "email": "Kailey85@gmail.com",
+        "subject": "java",
+        "salary": 50000,
+        "id": "2"
+    },
+    {
+        "name": "Heidi Smitham",
+        "email": "Sanford.Trantow28@gmail.com",
+        "subject": "js",
+        "salary": 9100,
+        "id": "3"
+    },
+    {
+        "name": "Marcella Crona",
+        "email": "Kayleigh.Brakus@yahoo.com",
+        "subject": "html",
+        "salary": 60000,
+        "id": "4"
+    },
+    {
+        "name": "Mable Walsh",
+        "email": "Ivory30@yahoo.com",
+        "subject": "css",
+        "salary": 6000,
+        "id": "5"
+    },
+    {
+        "name": "Johnny Lesch Jr.",
+        "email": "Kaitlin.Rath@gmail.com",
+        "subject": "c",
+        "salary": 16000,
+        "id": "6"
+    },
+    {
+        "name": "Edwin Hirthe",
+        "email": "Talon0@yahoo.com",
+        "subject": "c++",
+        "salary": 18000,
+        "id": "7"
+    },
+    {
+        "name": "Lance Ziemann",
+        "email": "Genesis_Becker@yahoo.com",
+        "subject": "rect.js",
+        "salary": 10000,
+        "id": "8"
+    },
+    {
+        "name": "Miss Maryann Conroy IV",
+        "email": "Lester_Cormier47@gmail.com",
+        "subject": "git",
+        "salary": 7000,
+        "id": "9"
+    },
+    {
+        "name": "Lyle O'Keefe",
+        "email": "Camron.Klocko@gmail.com",
+        "subject": "database",
+        "salary": 8300,
+        "id": "10"
+    },
+    {
+        "id": 11,
+        "name": "Arjun",
+        "email": "arjun@gmail.com",
+        "subject": "Python",
+        "salary": 50000
+    },
+    {
+        "name": "Rajput",
+        "email": "r@gmail.com",
+        "subject": "Dev",
+        "salary": 456765,
+        "password": "rr",
+        "id": 12
+    },
+    {
+        "name": "Ad",
+        "email": "ad@gmail.com",
+        "subject": "As",
+        "salary": 454334,
+        "password": "ww",
+        "id": 13
+    }
+]
